@@ -18,6 +18,7 @@ KLS : TI 24 A5
 
 
 ## FLOWCHART PROGRAM ##
+##[foto]Blank diagram.jpeg
 
 
 ## CODINGAN PROGRAM ##
