@@ -1,5 +1,7 @@
 NAMA : ELISABETH ERNI BANJARNAHOR
+
 NIM : 312410525
+
 KLS : TI 24 A5
 
 
@@ -20,10 +22,14 @@ KLS : TI 24 A5
 ## FLOWCHART PROGRAM ##
 ![WhatsApp Image 2024-12-02 at 18 22 33_1e6e9e7c](https://github.com/user-attachments/assets/502119e1-09ab-40eb-bf29-9b7241d1ef9b)
 
+## output ##
+![foto](https://github.com/Elisabethbanjarnahor/PRAKTIKUM-6-ELISA/blob/846db969dbb6c3416eee40d8c97f05ce0986a7a8/Screenshot%202024-12-03%20002805.png)
+
+![foto](https://github.com/Elisabethbanjarnahor/PRAKTIKUM-6-ELISA/blob/846db969dbb6c3416eee40d8c97f05ce0986a7a8/Screenshot%202024-12-03%20002832.png)
 
 
 ## CODINGAN PROGRAM ##
-```ruby
+```python
 mahasiswa = {}  # Kamus untuk menyimpan data mahasiswa
 
 def tambah_mahasiswa():
@@ -139,7 +145,7 @@ Fungsi ini meminta input nama mahasiswa yang ingin diubah nilainya, kemudian mem
 * `print("Data mahasiswa tidak ditemukan.")` : Menampilkan pesan jika data mahasiswa tidak ditemukan.
 6. **Loop 'while True:**
 
-python
+```python
 
 while True:
 
@@ -181,6 +187,7 @@ break
 else:
 
 print("Pilihan tidak valid.")
+```
 
 Kode ini merupakan loop utama program yang akan terus berjalan hingga pengguna memilih untuk keluar. Di dalam loop, program menampilkan menu interaktif yang berisi pilihan untuk menambahkan, menampilkan, menghapus, mengubah data mahasiswa, dan keluar.
 
