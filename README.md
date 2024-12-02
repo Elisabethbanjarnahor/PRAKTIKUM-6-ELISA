@@ -214,6 +214,6 @@ Menampilkan pilihan 1 untuk menambahkan data mahasiswa.
 
 * `else:`: Jika pengguna memilih pilihan yang tidak valid, maka program akan menampilkan pesan "Pilihan tidak valid.".
 
-## HASIL CODINGAN ##
+
 
 ★★SEKIAN DAN TERIMA KASIH★★
